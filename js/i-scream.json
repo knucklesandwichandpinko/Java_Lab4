@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": "https://github.com/knucklesandwichandpinko/Java_Lab4/blob/main/images/chocolate-mint.svg"
+        "image": "https://knucklesandwichandpinko.github.io/Java_Lab4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://github.com/knucklesandwichandpinko/Java_Lab4/blob/main/images/peach-mango.svg"
+        "image": "https://knucklesandwichandpinko.github.io/Java_Lab4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 400,
@@ -32,7 +32,7 @@
             "Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://github.com/knucklesandwichandpinko/Java_Lab4/blob/main/images/strawberry-sprinkle.svg"
+        "image": "https://knucklesandwichandpinko.github.io/Java_Lab4/images/strawberry-sprinkle.svg"
     }
 ,
 {
@@ -40,14 +40,14 @@
     "calories": 280,
     "type": "Pralines",
     "ingredients": ["pralines", "sugar", "cream", "happiness"],
-    "image": "https://github.com/knucklesandwichandpinko/Java_Lab4/blob/main/images/ice-cream-xtra1.svg"
+    "image": "https://knucklesandwichandpinko.github.io/Java_Lab4/images/ice-cream-xtra1.svg"
   },
   {
     "name": "M&M Madness",
     "calories": 300,
     "type": "M&M",
     "ingredients": ["m&m", "sugar", "cream", "colorful joy"],
-    "image": "https://github.com/knucklesandwichandpinko/Java_Lab4/blob/main/images/ice-cream-xtra2.svg"
+    "image": "https://knucklesandwichandpinko.github.io/Java_Lab4/images/ice-cream-xtra2.svg"
   }
 
 
